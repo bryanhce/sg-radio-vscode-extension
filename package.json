@@ -1,6 +1,7 @@
 {
   "name": "vscode-sg-radio",
   "displayName": "vscode-sg-radio",
+  "publisher" : "bryanhce",
   "description": "Stream Singapore Radio stations from vscode!",
   "version": "0.0.1",
   "engines": {
