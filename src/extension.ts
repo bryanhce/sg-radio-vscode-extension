@@ -2,9 +2,9 @@ import * as vscode from "vscode";
 import { RadioStation } from "./types";
 import { RADIO_STATIONS } from "./stations";
 
-// TODO get images?
-// TODO add like a bars going up and down? but seems a bit heavy
-// TODO Show song title, artist, and album art in your Webview header.
+// TODO add get images
+// TODO add like a sound visualizer of bars going up and down? but seems a bit heavy
+// TODO Show song title, artist
 
 function getWebviewContent(station: RadioStation): string {
   return `

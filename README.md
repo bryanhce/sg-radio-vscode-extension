@@ -32,10 +32,20 @@ Click the image above to see the extension in action!
 - Love 972
 - 938 Now
 - Hao FM
+- UFM 100.3
+- Money FM 89.3
+- 883 Jia FM
 
 ## Motivation
 
 Back in the early 2000s growing up in Singapore, there was no Spotify yet. When I was studying for big exams like the PSLE and O-Levels, 
-I’d always have the radio on in the background. The music and random chatter kept me company and made those long study sessions a little less boring.
+I would always have the radio on in the background. The music and random chatter kept me company and made those long study sessions a little less boring.
 
 I made this extension to bring back those vibes! Just a fun way to relive the good old days. Also, it just so happens to be Singapore’s 60th birthday... so happy birthday, Singapore!
+
+## Ideas or Issues
+Got an idea to make this extension better? Or ran into a bug?
+
+Feel free to reach out! I would love to hear from you!
+
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/bryanhce/).
