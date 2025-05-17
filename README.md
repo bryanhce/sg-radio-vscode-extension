@@ -4,7 +4,8 @@ SG radio is a vscode extension that streams Singapore Radio stations right in yo
 
 ## How to use
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QftFJei0v4g?si=CjEbvoCOXej34D7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the demo](https://img.youtube.com/vi/QftFJei0v4g/0.jpg)](https://youtu.be/QftFJei0v4g)
+
 
 ## List of stations supported
 
