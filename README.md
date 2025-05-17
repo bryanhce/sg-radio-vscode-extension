@@ -4,7 +4,13 @@ SG radio is a vscode extension that streams Singapore Radio stations right in yo
 
 ## How to use
 
-TODO embed video here
+<video controls width="560" height="315">
+  <source src="./sg-radio-demo.mp4" type="video/mp4">
+  <!-- Fallback for QuickTime/MOV -->
+  <source src="./sg-radio-demo.mov" type="video/quicktime">
+  Sorry, your browser doesn’t support the video tag.
+</video>
+
 
 ## List of stations supported
 - YES 933
