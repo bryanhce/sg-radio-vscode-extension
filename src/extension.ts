@@ -20,7 +20,6 @@ function getWebviewContent(station: RadioStation): string {
     </head>
     <body style="margin:0;padding:1em;font-family:sans-serif;">
       <h2>🎧 Now Playing: ${station.label}</h2>
-	    <canvas id="vis" style="width:100%; height:100px; display:block; margin-top:1em;"></canvas>
       <audio controls autoplay style="width:100%;">
         <source src="${station.stream}" type="audio/mpeg">
         Your browser does not support the audio element.
