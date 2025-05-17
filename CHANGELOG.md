@@ -4,6 +4,6 @@ All notable changes to the "vscode-sg-radio" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Released]
 
 - Initial release
