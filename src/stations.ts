@@ -80,4 +80,22 @@ export const RADIO_STATIONS: RadioStation[] = [
     stream:
       "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3",
   },
+    {
+    label: "UFM 100.3",
+    detail: "The best selection of Mandopop that you must not miss",
+    stream:
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3",
+  },
+    {
+    label: "Money FM 89.3",
+    detail: "Stay Ahead",
+    stream:
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3",
+  },
+    {
+    label: "883 Jia FM",
+    detail: "The only bilingual radio station in Singapore",
+    stream:
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3",
+  },
 ];
