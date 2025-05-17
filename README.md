@@ -1,11 +1,21 @@
 # Welcome!
 
-SG radio is a vscode extension that streams Singapore Radio stations right in your vscode editor!
+SG radio is a lightweight vscode extension that streams Singapore Radio stations right in your VS Code editor!
 
 ## How to use
 
+### Intrusction
+1. Install the extension from the VS Code Marketplace.
+
+2. Press Command + P (or Ctrl + P on Windows/Linux), then type >sg-radio and hit Enter.
+
+3. Browse and select your preferred radio station from the list.
+
+### Video Demo
+
 [![Watch the demo](https://img.youtube.com/vi/QftFJei0v4g/0.jpg)](https://youtu.be/QftFJei0v4g)
 
+Click the image above to see the extension in action!
 
 ## List of stations supported
 
@@ -22,3 +32,10 @@ SG radio is a vscode extension that streams Singapore Radio stations right in yo
 - Love 972
 - 938 Now
 - Hao FM
+
+## Motivation
+
+Back in the early 2000s growing up in Singapore, there was no Spotify yet. When I was studying for big exams like the PSLE and O-Levels, 
+I’d always have the radio on in the background. The music and random chatter kept me company and made those long study sessions a little less boring.
+
+I made this extension to bring back those vibes! Just a fun way to relive the good old days. Also, it just so happens to be Singapore’s 60th birthday... so happy birthday, Singapore!
